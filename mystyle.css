@@ -1,0 +1,25 @@
+.navbar-default {
+  
+  background-color:#054b96;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+ .navbar-nav > li{
+    
+    padding-right:10px;
+
+
+  }
+  .form-align
+  {
+    padding:10px;
+   
+  }
+  .colorr
+  {
+      color:white;
+  }
+  .btn-primary
+  {
+    background-color:#054b96;
+  }
